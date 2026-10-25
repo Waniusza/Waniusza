@@ -1,49 +1,88 @@
-# Waniusza
+# Janusz Sokołow
 
-Software Developer | Problem Solver | Lifelong Learner
+Hi, I'm Janusz Sokołow 👋
 
-A passionate developer focused on building practical, user-friendly software and continuously improving my skills through real-world projects and collaboration.
+Frontend Tech Lead · Frontend Architecture · AI-assisted Delivery
 
-## About Me
+Building financial platforms at scale and exploring AI-powered software delivery.
 
-I enjoy turning ideas into functional products, learning new technologies, and solving complex problems with clean, maintainable code. My work combines technical curiosity with a focus on usability, performance, and reliability.
+## About me
 
-## Skills
+I'm a Frontend Tech Lead with 9+ years of professional experience, working at Efigence on banking and currency exchange platforms.
 
-- Programming Languages: JavaScript, TypeScript, Python, Java, C#
-- Frontend: HTML, CSS, React, Next.js
-- Backend: Node.js, Express, REST APIs, SQL
-- Tools & Platforms: Git, GitHub, Docker, VS Code, Linux
-- Concepts: OOP, Clean Architecture, Testing, API Design, Agile Development
+My strongest foundation is Angular, TypeScript and frontend architecture. I enjoy untangling complex codebases, improving developer workflows and helping teams turn business requirements into maintainable products.
 
-## Experience
+Alongside my production work, I build full-stack projects and explore how LLMs, RAG and MCP can support software delivery—from understanding project documentation to identifying missing requirements.
 
-### Software Developer
-- Built and maintained web applications with a focus on performance and maintainability
-- Collaborated on feature development, debugging, and deployment workflows
-- Improved product quality through testing, refactoring, and iterative feedback
+Based in Poland · Interested in remote opportunities.
 
-## Projects
+## Selected production experience
 
-### Personal Portfolio / Resume Page
-- Created a clean and professional profile to present my background, technical skills, and projects
-- Designed to showcase my work and make it easy for collaborators and recruiters to connect
+| Area | Scope and contribution |
+| --- | --- |
+| Digital banking | Work on a bank's main web platform serving approximately 600,000 unique monthly users. |
+| Currency exchange | Work concurrently on a financial product serving approximately 150,000 monthly users. |
+| Embedded banking | A major contribution to adapting the banking platform for embedded use across 7 integration endpoints, including substantial architecture changes, a custom native-to-web communication protocol and HMAC-based security. |
+| Cross-platform delivery | Both financial platforms run in production across mobile and web. |
+| Engineering workflows | Built an internal Claude Code marketplace and review team-authored skills to maintain project conventions and engineering quality. |
 
-### Ongoing Learning Projects
-- Exploring modern frontend and backend development patterns
-- Building practical apps that solve everyday problems and sharpen engineering skills
+Client names and proprietary implementation details are omitted.
 
-## Education & Learning
+## What I focus on
 
-- Continuous learning through personal projects, online courses, and hands-on technical work
-- Interested in software engineering best practices, system design, and product thinking
+- Frontend architecture: maintainable application structure, integration boundaries and modernization of existing systems.
+- Technical leadership: code reviews, mentoring, coordinating delivery and working with product, design and backend teams.
+- Accessibility: applying WCAG knowledge to everyday interface decisions.
+- AI-assisted engineering: reusable workflows, project-specific skills and human review of generated changes.
+- Product ownership: connecting technical decisions with user needs and delivery constraints.
+
+## Section Technologies not fulfilled yet
+
+## Projects I'm building
+
+### AI Delivery Platform — in development
+
+A project knowledge platform exploring how AI can help teams prepare for delivery.
+
+- Ingest project documentation and retrieve knowledge within a project's scope.
+- Identify gaps and inconsistencies in requirements.
+- Generate clarification questions grounded in available documentation.
+- Expose project knowledge through MCP.
+- Explore structured estimates across delivery disciplines.
+
+Working with: Python, OpenAI API, Qdrant, embeddings and structured outputs.
+
+### Job advertising platform — full-stack project
+
+A platform built with Next.js and Payload CMS, covering company roles, job advertisements and payment integration, with deployment on Yandex Cloud.
+
+This project lets me work beyond the frontend—from application logic and access control to payments and deployment.
+
+## Let's connect
+
+I'm interested in roles combining frontend technical leadership, architecture and AI-assisted delivery, with room to take broader technical ownership of a product.
 
 ## Contact
 
 - GitHub: https://github.com/Waniusza
+- LinkedIn: https://www.linkedin.com
 - Email: your.email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-profile
 
-## Quick Summary
+## Technologies
 
-Driven by curiosity, creativity, and a commitment to building meaningful software experiences.
+- Angular
+- TypeScript
+- JavaScript
+- HTML / CSS
+- React
+- Next.js
+- Node.js
+- Python
+- REST APIs
+- PostgreSQL / SQL
+- Git / GitHub
+- Docker
+- AI / LLM workflows
+- MCP
+- RAG
+- Accessibility (WCAG)
