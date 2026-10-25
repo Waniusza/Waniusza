@@ -67,31 +67,45 @@ A platform built with Next.js and Payload CMS, covering company roles, job adver
 
 This project lets me work beyond the frontend—from application logic and access control to payments and deployment.
 
+
+---
+
+## 🧰 Tech stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,sass,nodejs,postgres,mongodb,supabase,graphql,jenkins,docker,git,github,gitlab,figma" width="2200" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=F5084B" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+</div>
+
+### Core technologies
+
+```txt
+Frontend       Angular - React - Vue - TypeScript - JavaScript - Next.js - HTML - CSS
+Backend        Node.js - Payload CMS - REST APIs
+Architecture   Frontend architecture - Embedded applications - Web-to-native integration
+Leadership     Technical guidance - Mentoring - Code reviews - Delivery coordination
+Quality        WCAG accessibility - Refactoring - Coding standards - Documentation
+DevOps         Docker - nginx - Git
+AI Projects    RAG - Embeddings - OpenAI API - MCP - Structured outputs
+AI Tooling     Claude Code - Cursor - Custom skills - Marketplaces
+```
+
+---
+
 ## Let's connect
 
-I'm interested in roles combining frontend technical leadership, architecture and AI-assisted delivery, with room to take broader technical ownership of a product.
-
-## Contact
+I'm interested in roles combining frontend technical leadership, full-stack development, and AI-assisted delivery. I bring extensive fintech experience and a pragmatic, adaptable approach to working in fast-paced start-up environments.
 
 - GitHub: https://github.com/Waniusza
-- LinkedIn: https://www.linkedin.com
-- Email: your.email@example.com
-
-## Technologies
-
-- Angular
-- TypeScript
-- JavaScript
-- HTML / CSS
-- React
-- Next.js
-- Node.js
-- Python
-- REST APIs
-- PostgreSQL / SQL
-- Git / GitHub
-- Docker
-- AI / LLM workflows
-- MCP
-- RAG
-- Accessibility (WCAG)
+- LinkedIn: [https://www.linkedin.com](https://linkedin.com/in/janusz-sokolow)
+- Email: janusz.sokolow@gmail.com
