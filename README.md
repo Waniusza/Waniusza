@@ -1,20 +1,29 @@
-# Janusz Sokołow
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&section=header&reversal=false&text=Janusz+Sokolow&textBg=false&fontSize=67&fontAlign=50&fontAlignY=30&rotate=0&strokeWidth=0&desc=Frontend+Tech+Lead++Architect+%7C+Full-Stack+Dev+%7C+AI-Assisted+Delivery++Angular%2C+React%2C+FinTech&descSize=20&descAlign=50&descAlignY=50" alt="Janusz Sokolow - " width="2200">
 
-Hi, I'm Janusz Sokołow 👋
+  <a href="mailto:janusz.sokolow@gmail.com">
+    <img src="https://img.shields.io/badge/Email-janusz.sokolow%40gmail.com-red?style=for-the-badge&logo=gmail&labelColor=#F5F5F5" alt="" />
+  </a>
+  
+  <a href="https://linkedin.com/in/janusz-sokolow">
+    <img src="https://img.shields.io/badge/LinkedIn-janusz--sokolow-0B66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
+  </a>
+</div>
 
-Frontend Tech Lead · Frontend Architecture · AI-assisted Delivery
+---
 
-Building financial platforms at scale and exploring AI-powered software delivery.
+## 👋 About me
 
-## About me
-
-I'm a Frontend Tech Lead with 9+ years of professional experience, working at Efigence on banking and currency exchange platforms.
-
-My strongest foundation is Angular, TypeScript and frontend architecture. I enjoy untangling complex codebases, improving developer workflows and helping teams turn business requirements into maintainable products.
-
-Alongside my production work, I build full-stack projects and explore how LLMs, RAG and MCP can support software delivery—from understanding project documentation to identifying missing requirements.
-
+Hi, I'm Janusz Sokołow 👋  
 Based in Poland · Interested in remote opportunities.
+
+Hands-on Frontend Tech Lead with 10+ years of software engineering experience, specializing in frontend architecture, fintech, and enterprise applications. Combining deep expertise in Angular19+, Vue.js, MagnoliaCMS, CI/CD, WCAG standard and TypeScript with practical full-stack development and AI-assisted delivery.
+
+I've led the expansion of a banking platform from 1 to 5 channels, growing its monthly active user base from ~225K to ~650K.  
+Independently built a commercial full-stack marketplace serving ~8,000 daily unique visitors.
+
+Currently contributing to an internal Claude Code plugin marketplace adopted by ~30 professionals. Interested in hands-on engineering roles combining frontend expertise, full-stack development, architecture, and practical AI adoption.
+
 
 ## Selected production experience
 
